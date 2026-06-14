@@ -10,7 +10,7 @@
 
 📫 **Let’s connect!**  
 - 💼 [LinkedIn](https://linkedin.com/in/oliver-shaban-8a2605278/)  
-- 🌐 [Portfolio](https://your-portfolio-link.com) 
+- 🌐 [Portfolio](https://vercel.com/oliwash254s-projects/portfolio-site) 
 - 📧 Email: shabanoliver40@gmail.com
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
