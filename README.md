@@ -9,7 +9,7 @@
 ---
 
 📫 **Let’s connect!**  
-- 💼 [LinkedIn](https://linkedin.com/in/oliver-shaban-8a2605278/)  
+- 💼 [LinkedIn](www.linkedin.com/in/oliver-wanyonyi-9bab61416)  
 - 🌐 [Portfolio](https://portfolio-site-bice-eight.vercel.app/) 
 - 📧 Email: shabanoliver40@gmail.com
 
